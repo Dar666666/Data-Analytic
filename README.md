@@ -12,3 +12,7 @@ Analysis using visualization of *sales dynamics* (over time) in the context of p
 Analysis of *product sales by days of the week*.
 
 **Data analysis helped to understand the seasonality of products, find problems in logistics. We provided information on product profitability to other departments to continue working on increasing profits in different regions and on different continents.**
+
+## Tablue Session Dashboard 
+
+**It displays information about the number of orders and the amount of revenue the company generated from those orders. These metrics can be viewed by category, country, and device, and there is also a filter panel for easy analysis.**
